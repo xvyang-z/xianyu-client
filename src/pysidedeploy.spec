@@ -48,7 +48,7 @@ plugins =
 # eg = extra_args = --show-modules --follow-stdlib
 macos.permissions = 
 # (str) specify any extra nuitka arguments
-extra_args = --quiet --noinclude-qt-translations  --standalone --nofollow-imports --output-dir=../out
+extra_args = --quiet --noinclude-qt-translations  --standalone --nofollow-imports --output-dir=../.out
 
 [buildozer]
 # build mode
